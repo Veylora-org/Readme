@@ -7,7 +7,7 @@ Veylora is an international software company that builds production-ready system
 We work with ambitious companies to turn complex ideas into software that can ship, operate, and scale.
 
 - Website: [veylora.network](https://veylora.network)
-- Linkedin: [linkedin.com/company/veylora-network] (https://www.linkedin.com/company/veylora-network)
+- Linkedin: [linkedin.com/company/veylora-network](https://www.linkedin.com/company/veylora-network)
 - Email: [career@veylora.network](mailto:career@veylora.network)
 - Telegram: [t.me/VeyloraTechnology](https://t.me/veyloraorg)
 
